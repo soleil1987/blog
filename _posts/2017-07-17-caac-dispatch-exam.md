@@ -8,7 +8,9 @@ header-img: "img/in-post/post-eleme-pwa/caac-dispatch.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-- hello
+- 执照
+- 考试
+- 签派
 ---
 # 第一部分 飞行计划制作
 
