@@ -8,7 +8,6 @@ header-img: "img/in-post/post-eleme-pwa/xiaotong1.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-- hello
 ---
 
 
