@@ -33,10 +33,10 @@ tags:
 
 04
 
-项目是在GitHub上托管的，repo地址 https://github.com/soleil1987/cde
+项目是在GitHub上托管的，repo地址 [https://github.com/soleil1987/cde](https://github.com/soleil1987/cde)
 
 Gitbook和repo做了关联，对repo的修改会自动更新book。
 
-book地址 https://soleil1987.gitbooks.io/caac-dispatch-exam/content/
+book地址 [https://soleil1987.gitbooks.io/caac-dispatch-exam/content/](https://soleil1987.gitbooks.io/caac-dispatch-exam/content/)
 
 内容逐步完善吧，欢迎同道中人一起来栽树。
