@@ -50,24 +50,24 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: 
+disqus_username:
 # Netease setttings
 netease_comment: false
 
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 ba_track_id: db101bf6f488b367faeb16630303be66
 
 # Google Analytics
 ga_track_id: 'UA-102683264-1'            # Format: UA-xxxxxx-xx
-ga_domain: 
+ga_domain:
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: “talk less，<br>code more“
+sidebar-about-description: “live long and prosper“
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
