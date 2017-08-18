@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "统计学基础四"
+title:      "统计学基础五"
 subtitle:   "参数估计"
 date:       2017-08-15 18:00:00
 author:     "Xiaotong"
